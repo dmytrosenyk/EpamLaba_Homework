@@ -1,2 +1,0 @@
-# EpamLaba_Homework
-homework
